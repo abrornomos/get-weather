@@ -1,0 +1,362 @@
+{
+    "2021-02-03": {
+        "results": {
+            "sunrise": "6:31:03 AM",
+            "sunset": "12:28:58 PM",
+            "solar_noon": "9:30:01 AM",
+            "day_length": "05:57:55",
+            "civil_twilight_begin": "5:20:11 AM",
+            "civil_twilight_end": "1:39:50 PM",
+            "nautical_twilight_begin": "4:07:16 AM",
+            "nautical_twilight_end": "2:52:45 PM",
+            "astronomical_twilight_begin": "2:59:39 AM",
+            "astronomical_twilight_end": "4:00:22 PM"
+        },
+        "status": "OK"
+    },
+    "2021-03-05": {
+        "results": {
+            "sunrise": "4:17:19 AM",
+            "sunset": "2:37:58 PM",
+            "solar_noon": "9:27:39 AM",
+            "day_length": "10:20:39",
+            "civil_twilight_begin": "3:22:07 AM",
+            "civil_twilight_end": "3:33:10 PM",
+            "nautical_twilight_begin": "2:14:27 AM",
+            "nautical_twilight_end": "4:40:50 PM",
+            "astronomical_twilight_begin": "1:00:54 AM",
+            "astronomical_twilight_end": "5:54:23 PM"
+        },
+        "status": "OK"
+    },
+    "2021-04-09": {
+        "results": {
+            "sunrise": "1:41:39 AM",
+            "sunset": "4:53:51 PM",
+            "solar_noon": "9:17:45 AM",
+            "day_length": "15:12:12",
+            "civil_twilight_begin": "12:36:23 AM",
+            "civil_twilight_end": "5:59:07 PM",
+            "nautical_twilight_begin": "10:38:41 PM",
+            "nautical_twilight_end": "7:56:49 PM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-04-29": {
+        "results": {
+            "sunrise": "12:05:04 AM",
+            "sunset": "6:22:01 PM",
+            "solar_noon": "9:13:32 AM",
+            "day_length": "18:16:57",
+            "civil_twilight_begin": "10:00:50 PM",
+            "civil_twilight_end": "8:26:15 PM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-05-04": {
+        "results": {
+            "sunrise": "11:38:06 PM",
+            "sunset": "6:47:51 PM",
+            "solar_noon": "9:12:59 AM",
+            "day_length": "19:09:45",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-05-14": {
+        "results": {
+            "sunrise": "10:33:09 PM",
+            "sunset": "7:51:57 PM",
+            "solar_noon": "9:12:33 AM",
+            "day_length": "21:18:48",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-05-19": {
+        "results": {
+            "sunrise": "9:31:12 PM",
+            "sunset": "8:54:11 PM",
+            "solar_noon": "9:12:41 AM",
+            "day_length": "23:22:59",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-05-29": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:13:38 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-06-03": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:14:24 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-06-13": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:16:19 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-06-23": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:18:28 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-07-03": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:20:29 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-07-13": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:22:00 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-07-23": {
+        "results": {
+            "sunrise": "12:00:01 AM",
+            "sunset": "12:00:01 AM",
+            "solar_noon": "9:22:43 AM",
+            "day_length": "00:00:00",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-08-02": {
+        "results": {
+            "sunrise": "11:13:43 PM",
+            "sunset": "7:31:14 PM",
+            "solar_noon": "9:22:28 AM",
+            "day_length": "20:17:31",
+            "civil_twilight_begin": "12:00:01 AM",
+            "civil_twilight_end": "12:00:01 AM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-08-12": {
+        "results": {
+            "sunrise": "12:08:32 AM",
+            "sunset": "6:33:56 PM",
+            "solar_noon": "9:21:14 AM",
+            "day_length": "18:25:24",
+            "civil_twilight_begin": "9:51:03 PM",
+            "civil_twilight_end": "8:51:25 PM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-08-22": {
+        "results": {
+            "sunrise": "12:54:12 AM",
+            "sunset": "5:43:55 PM",
+            "solar_noon": "9:19:04 AM",
+            "day_length": "16:49:43",
+            "civil_twilight_begin": "11:33:03 PM",
+            "civil_twilight_end": "7:05:05 PM",
+            "nautical_twilight_begin": "12:00:01 AM",
+            "nautical_twilight_end": "12:00:01 AM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-09-01": {
+        "results": {
+            "sunrise": "1:35:21 AM",
+            "sunset": "4:56:59 PM",
+            "solar_noon": "9:16:10 AM",
+            "day_length": "15:21:38",
+            "civil_twilight_begin": "12:29:01 AM",
+            "civil_twilight_end": "6:03:19 PM",
+            "nautical_twilight_begin": "10:23:07 PM",
+            "nautical_twilight_end": "8:09:13 PM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-09-11": {
+        "results": {
+            "sunrise": "2:13:55 AM",
+            "sunset": "4:11:39 PM",
+            "solar_noon": "9:12:47 AM",
+            "day_length": "13:57:44",
+            "civil_twilight_begin": "1:14:41 AM",
+            "civil_twilight_end": "5:10:53 PM",
+            "nautical_twilight_begin": "11:47:01 PM",
+            "nautical_twilight_end": "6:38:33 PM",
+            "astronomical_twilight_begin": "12:00:01 AM",
+            "astronomical_twilight_end": "12:00:01 AM"
+        },
+        "status": "OK"
+    },
+    "2021-09-21": {
+        "results": {
+            "sunrise": "2:51:15 AM",
+            "sunset": "3:27:12 PM",
+            "solar_noon": "9:09:13 AM",
+            "day_length": "12:35:57",
+            "civil_twilight_begin": "1:55:26 AM",
+            "civil_twilight_end": "4:23:01 PM",
+            "nautical_twilight_begin": "12:40:23 AM",
+            "nautical_twilight_end": "5:38:04 PM",
+            "astronomical_twilight_begin": "10:59:22 PM",
+            "astronomical_twilight_end": "7:19:05 PM"
+        },
+        "status": "OK"
+    },
+    "2021-10-11": {
+        "results": {
+            "sunrise": "4:06:24 AM",
+            "sunset": "1:59:25 PM",
+            "solar_noon": "9:02:54 AM",
+            "day_length": "09:53:01",
+            "civil_twilight_begin": "3:10:37 AM",
+            "civil_twilight_end": "2:55:11 PM",
+            "nautical_twilight_begin": "2:03:21 AM",
+            "nautical_twilight_end": "4:02:27 PM",
+            "astronomical_twilight_begin": "12:51:52 AM",
+            "astronomical_twilight_end": "5:13:56 PM"
+        },
+        "status": "OK"
+    },
+    "2021-11-05": {
+        "results": {
+            "sunrise": "5:51:23 AM",
+            "sunset": "12:08:12 PM",
+            "solar_noon": "8:59:48 AM",
+            "day_length": "06:16:49",
+            "civil_twilight_begin": "4:42:33 AM",
+            "civil_twilight_end": "1:17:02 PM",
+            "nautical_twilight_begin": "3:30:34 AM",
+            "nautical_twilight_end": "2:29:02 PM",
+            "astronomical_twilight_begin": "2:23:09 AM",
+            "astronomical_twilight_end": "3:36:26 PM"
+        },
+        "status": "OK"
+    },
+    "2021-11-15": {
+        "results": {
+            "sunrise": "6:40:32 AM",
+            "sunset": "11:21:05 AM",
+            "solar_noon": "9:00:48 AM",
+            "day_length": "04:40:33",
+            "civil_twilight_begin": "5:19:08 AM",
+            "civil_twilight_end": "12:42:29 PM",
+            "nautical_twilight_begin": "4:01:54 AM",
+            "nautical_twilight_end": "1:59:43 PM",
+            "astronomical_twilight_begin": "2:53:00 AM",
+            "astronomical_twilight_end": "3:08:37 PM"
+        },
+        "status": "OK"
+    },
+    "2021-11-25": {
+        "results": {
+            "sunrise": "7:38:30 AM",
+            "sunset": "10:27:55 AM",
+            "solar_noon": "9:03:13 AM",
+            "day_length": "02:49:25",
+            "civil_twilight_begin": "5:53:58 AM",
+            "civil_twilight_end": "12:12:27 PM",
+            "nautical_twilight_begin": "4:29:58 AM",
+            "nautical_twilight_end": "1:36:27 PM",
+            "astronomical_twilight_begin": "3:18:47 AM",
+            "astronomical_twilight_end": "2:47:38 PM"
+        },
+        "status": "OK"
+    }
+}

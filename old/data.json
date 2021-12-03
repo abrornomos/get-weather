@@ -1,0 +1,182 @@
+[
+    {
+        "hours": [
+            {
+                "airTemperature": {
+                    "noaa": 6.89,
+                    "sg": 6.89
+                },
+                "humidity": {
+                    "noaa": 92.7,
+                    "sg": 92.7
+                },
+                "precipitation": {
+                    "noaa": 0.0,
+                    "sg": 0.0
+                },
+                "time": "2021-10-01T12:00:00+00:00",
+                "windDirection": {
+                    "icon": 145.6,
+                    "noaa": 134.29,
+                    "sg": 145.6
+                },
+                "windSpeed": {
+                    "icon": 5.76,
+                    "noaa": 5.39,
+                    "sg": 5.76
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-10-01 12:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "humidity",
+                "precipitation",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 8,
+            "start": "2021-10-01 12:00"
+        }
+    },
+    {
+        "hours": [
+            {
+                "airTemperature": {
+                    "noaa": 5.58,
+                    "sg": 5.58
+                },
+                "humidity": {
+                    "noaa": 89.6,
+                    "sg": 89.6
+                },
+                "precipitation": {
+                    "noaa": 0.92,
+                    "sg": 0.92
+                },
+                "time": "2021-10-11T12:00:00+00:00",
+                "windDirection": {
+                    "icon": 129.11,
+                    "noaa": 121.74,
+                    "sg": 129.11
+                },
+                "windSpeed": {
+                    "icon": 10.1,
+                    "noaa": 11.04,
+                    "sg": 10.1
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-10-11 12:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "humidity",
+                "precipitation",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 9,
+            "start": "2021-10-11 12:00"
+        }
+    },
+    {
+        "hours": [
+            {
+                "airTemperature": {
+                    "noaa": 1.6,
+                    "sg": 1.6
+                },
+                "humidity": {
+                    "noaa": 76.6,
+                    "sg": 76.6
+                },
+                "precipitation": {
+                    "noaa": 0.11,
+                    "sg": 0.11
+                },
+                "time": "2021-10-21T12:00:00+00:00",
+                "windDirection": {
+                    "icon": 98.33,
+                    "noaa": 99.64,
+                    "sg": 98.33
+                },
+                "windSpeed": {
+                    "icon": 11.49,
+                    "noaa": 10.94,
+                    "sg": 11.49
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-10-21 12:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "humidity",
+                "precipitation",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 10,
+            "start": "2021-10-21 12:00"
+        }
+    },
+    {
+        "hours": [
+            {
+                "airTemperature": {
+                    "noaa": 4.23,
+                    "sg": 4.23
+                },
+                "humidity": {
+                    "noaa": 78.7,
+                    "sg": 78.7
+                },
+                "precipitation": {
+                    "noaa": 0.12,
+                    "sg": 0.12
+                },
+                "time": "2021-10-31T12:00:00+00:00",
+                "windDirection": {
+                    "icon": 73.61,
+                    "noaa": 94.21,
+                    "sg": 73.61
+                },
+                "windSpeed": {
+                    "icon": 8.62,
+                    "noaa": 6.77,
+                    "sg": 8.62
+                }
+            }
+        ],
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-10-31 12:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "humidity",
+                "precipitation",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 11,
+            "start": "2021-10-31 12:00"
+        }
+    }
+]
