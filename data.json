@@ -125,33 +125,9 @@
     "ipgeolocation_api_tokens": [
         "ecf4cd47732e4e9db69fceb9bf3560ca"
     ],
-    "keys": [
-        "windDirection",
-        "windDirection20m",
-        "windDirection30m",
-        "windDirection40m",
-        "windDirection50m",
-        "windDirection80m",
-        "windDirection100m",
-        "windDirection1000hpa",
-        "windDirection800hpa",
-        "windDirection500hpa",
-        "windDirection200hpa",
-        "windSpeed",
-        "windSpeed20m",
-        "windSpeed30m",
-        "windSpeed40m",
-        "windSpeed50m",
-        "windSpeed80m",
-        "windSpeed100m",
-        "windSpeed1000hpa",
-        "windSpeed800hpa",
-        "windSpeed500hpa",
-        "windSpeed200hpa"
-    ],
     "latitude": 68.9876975,
     "longitude": 40.9483998,
-    "stromglass_api": "https://api.stormglass.io/v2/weather/point",
+    "stormglass_api": "https://api.stormglass.io/v2/weather/point",
     "stormglass_api_tokens": [
         "155644c8-50e4-11ec-b247-0242ac130002-15564540-50e4-11ec-b247-0242ac130002"
     ],

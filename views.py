@@ -58,7 +58,7 @@ def weather():
             'end': end.__str__()
         }
         response = requests.get(
-            'https://api.stormglass.io/v2/weather/point',
+            data['stormglass_api'],
             params={
                 'lat': data['latitude'],
                 'lng': data['longitude'],
