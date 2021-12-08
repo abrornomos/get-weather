@@ -1,0 +1,1602 @@
+{
+    "2021-02-03": {
+        "hours": {
+            "airTemperature": {
+                "noaa": -6.176,
+                "sg": -6.176
+            },
+            "cloudCover": {
+                "noaa": 100.0,
+                "sg": 100.0
+            },
+            "gust": {
+                "noaa": 6.477,
+                "sg": 6.477
+            },
+            "humidity": {
+                "noaa": 81.56,
+                "sg": 81.56
+            },
+            "precipitation": {
+                "noaa": 0.007,
+                "sg": 0.007
+            },
+            "pressure": {
+                "noaa": 1010.641,
+                "sg": 1010.641
+            },
+            "windDirection": {
+                "icon": 88.371,
+                "noaa": 53.274,
+                "sg": 88.371
+            },
+            "windSpeed": {
+                "icon": 4.792,
+                "noaa": 6.002,
+                "sg": 4.792
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-02-03 17:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 1,
+            "start": "2021-02-03 08:00"
+        }
+    },
+    "2021-03-05": {
+        "hours": {
+            "airTemperature": {
+                "noaa": -9.284,
+                "sg": -9.284
+            },
+            "cloudCover": {
+                "noaa": 100.0,
+                "sg": 100.0
+            },
+            "currentDirection": {
+                "meto": 162.087,
+                "sg": 162.087
+            },
+            "currentSpeed": {
+                "meto": 0.084,
+                "sg": 0.084
+            },
+            "gust": {
+                "noaa": 6.158,
+                "sg": 6.158
+            },
+            "humidity": {
+                "noaa": 76.208,
+                "sg": 76.208
+            },
+            "precipitation": {
+                "noaa": 0.014,
+                "sg": 0.014
+            },
+            "pressure": {
+                "noaa": 1006.296,
+                "sg": 1006.296
+            },
+            "windDirection": {
+                "icon": 49.675,
+                "noaa": 58.6,
+                "sg": 49.675
+            },
+            "windSpeed": {
+                "icon": 6.433,
+                "noaa": 6.047,
+                "sg": 6.433
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-03-05 18:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 2,
+            "start": "2021-03-05 07:00"
+        }
+    },
+    "2021-04-09": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 0.748,
+                "sg": 0.748
+            },
+            "cloudCover": {
+                "noaa": 61.954,
+                "sg": 61.954
+            },
+            "currentDirection": {
+                "meto": 275.178,
+                "sg": 275.178
+            },
+            "currentSpeed": {
+                "meto": 0.064,
+                "sg": 0.064
+            },
+            "gust": {
+                "noaa": 14.7,
+                "sg": 14.7
+            },
+            "humidity": {
+                "noaa": 84.8,
+                "sg": 84.8
+            },
+            "precipitation": {
+                "noaa": 0.171,
+                "sg": 0.171
+            },
+            "pressure": {
+                "noaa": 991.759,
+                "sg": 991.759
+            },
+            "windDirection": {
+                "icon": 238.553,
+                "noaa": 246.707,
+                "sg": 238.553
+            },
+            "windSpeed": {
+                "icon": 11.092,
+                "noaa": 12.405,
+                "sg": 11.092
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-04-09 18:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 3,
+            "start": "2021-04-09 06:00"
+        }
+    },
+    "2021-04-29": {
+        "hours": {
+            "airTemperature": {
+                "noaa": -1.094,
+                "sg": -1.094
+            },
+            "cloudCover": {
+                "noaa": 81.793,
+                "sg": 81.793
+            },
+            "currentDirection": {
+                "meto": 322.819,
+                "sg": 322.819
+            },
+            "currentSpeed": {
+                "meto": 0.048,
+                "sg": 0.048
+            },
+            "gust": {
+                "noaa": 7.852,
+                "sg": 7.852
+            },
+            "humidity": {
+                "noaa": 64.921,
+                "sg": 64.921
+            },
+            "precipitation": {
+                "noaa": 0.058,
+                "sg": 0.058
+            },
+            "pressure": {
+                "noaa": 1005.671,
+                "sg": 1005.671
+            },
+            "windDirection": {
+                "icon": 240.166,
+                "noaa": 242.032,
+                "sg": 240.166
+            },
+            "windSpeed": {
+                "icon": 7.824,
+                "noaa": 7.956,
+                "sg": 7.824
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-04-29 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 4,
+            "start": "2021-04-29 06:00"
+        }
+    },
+    "2021-05-04": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 0.871,
+                "sg": 0.871
+            },
+            "cloudCover": {
+                "noaa": 49.441,
+                "sg": 49.441
+            },
+            "currentDirection": {
+                "meto": 135.493,
+                "sg": 135.493
+            },
+            "currentSpeed": {
+                "meto": 0.07,
+                "sg": 0.07
+            },
+            "gust": {
+                "noaa": 6.664,
+                "sg": 6.664
+            },
+            "humidity": {
+                "noaa": 82.957,
+                "sg": 82.957
+            },
+            "precipitation": {
+                "noaa": 0.011,
+                "sg": 0.011
+            },
+            "pressure": {
+                "noaa": 1012.709,
+                "sg": 1012.709
+            },
+            "windDirection": {
+                "icon": 110.209,
+                "noaa": 110.861,
+                "sg": 110.209
+            },
+            "windSpeed": {
+                "icon": 5.97,
+                "noaa": 5.964,
+                "sg": 5.97
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-05-04 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 5,
+            "start": "2021-05-04 06:00"
+        }
+    },
+    "2021-05-14": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 0.814,
+                "sg": 0.814
+            },
+            "cloudCover": {
+                "noaa": 96.481,
+                "sg": 96.481
+            },
+            "currentDirection": {
+                "meto": 198.835,
+                "sg": 198.835
+            },
+            "currentSpeed": {
+                "meto": 0.036,
+                "sg": 0.036
+            },
+            "gust": {
+                "noaa": 10.144,
+                "sg": 10.144
+            },
+            "humidity": {
+                "noaa": 80.726,
+                "sg": 80.726
+            },
+            "precipitation": {
+                "noaa": 0.001,
+                "sg": 0.001
+            },
+            "pressure": {
+                "noaa": 1021.829,
+                "sg": 1021.829
+            },
+            "windDirection": {
+                "icon": 62.045,
+                "noaa": 63.886,
+                "sg": 62.045
+            },
+            "windSpeed": {
+                "icon": 9.558,
+                "noaa": 9.611,
+                "sg": 9.558
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-05-14 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 6,
+            "start": "2021-05-14 06:00"
+        }
+    },
+    "2021-05-19": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 3.872,
+                "sg": 3.872
+            },
+            "cloudCover": {
+                "noaa": 100.0,
+                "sg": 100.0
+            },
+            "currentDirection": {
+                "meto": 173.796,
+                "sg": 173.796
+            },
+            "currentSpeed": {
+                "meto": 0.034,
+                "sg": 0.034
+            },
+            "gust": {
+                "noaa": 3.228,
+                "sg": 3.228
+            },
+            "humidity": {
+                "noaa": 99.791,
+                "sg": 99.791
+            },
+            "precipitation": {
+                "noaa": 0.035,
+                "sg": 0.035
+            },
+            "pressure": {
+                "noaa": 1008.86,
+                "sg": 1008.86
+            },
+            "windDirection": {
+                "icon": 164.786,
+                "noaa": 202.134,
+                "sg": 164.786
+            },
+            "windSpeed": {
+                "icon": 2.299,
+                "noaa": 2.911,
+                "sg": 2.299
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-05-19 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 7,
+            "start": "2021-05-19 06:00"
+        }
+    },
+    "2021-05-29": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 1.338,
+                "sg": 1.338
+            },
+            "cloudCover": {
+                "noaa": 98.933,
+                "sg": 98.933
+            },
+            "currentDirection": {
+                "meto": 193.323,
+                "sg": 193.323
+            },
+            "currentSpeed": {
+                "meto": 0.059,
+                "sg": 0.059
+            },
+            "gust": {
+                "noaa": 13.917,
+                "sg": 13.917
+            },
+            "humidity": {
+                "noaa": 86.098,
+                "sg": 86.098
+            },
+            "precipitation": {
+                "noaa": 0.085,
+                "sg": 0.085
+            },
+            "pressure": {
+                "noaa": 1011.742,
+                "sg": 1011.742
+            },
+            "windDirection": {
+                "icon": 337.171,
+                "noaa": 341.637,
+                "sg": 337.171
+            },
+            "windSpeed": {
+                "icon": 11.281,
+                "noaa": 11.611,
+                "sg": 11.281
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-05-29 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 8,
+            "start": "2021-05-29 05:00"
+        }
+    },
+    "2021-06-03": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 5.18,
+                "sg": 5.18
+            },
+            "cloudCover": {
+                "noaa": 9.4,
+                "sg": 9.4
+            },
+            "currentDirection": {
+                "meto": 279.086,
+                "sg": 279.086
+            },
+            "currentSpeed": {
+                "meto": 0.082,
+                "sg": 0.082
+            },
+            "gust": {
+                "noaa": 5.53,
+                "sg": 5.53
+            },
+            "humidity": {
+                "noaa": 84.462,
+                "sg": 84.462
+            },
+            "precipitation": {
+                "noaa": 0.0,
+                "sg": 0.0
+            },
+            "pressure": {
+                "noaa": 1027.344,
+                "sg": 1027.344
+            },
+            "windDirection": {
+                "icon": 255.707,
+                "noaa": 249.338,
+                "sg": 255.707
+            },
+            "windSpeed": {
+                "icon": 3.871,
+                "noaa": 4.652,
+                "sg": 3.871
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-06-03 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 9,
+            "start": "2021-06-03 05:00"
+        }
+    },
+    "2021-06-13": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 8.994,
+                "sg": 8.994
+            },
+            "cloudCover": {
+                "noaa": 52.308,
+                "sg": 52.308
+            },
+            "currentDirection": {
+                "meto": 152.699,
+                "sg": 152.699
+            },
+            "currentSpeed": {
+                "meto": 0.049,
+                "sg": 0.049
+            },
+            "gust": {
+                "noaa": 11.508,
+                "sg": 11.508
+            },
+            "humidity": {
+                "noaa": 76.613,
+                "sg": 76.613
+            },
+            "precipitation": {
+                "noaa": 0.029,
+                "sg": 0.029
+            },
+            "pressure": {
+                "noaa": 1001.776,
+                "sg": 1001.776
+            },
+            "windDirection": {
+                "icon": 170.039,
+                "noaa": 172.834,
+                "sg": 170.039
+            },
+            "windSpeed": {
+                "icon": 7.353,
+                "noaa": 8.169,
+                "sg": 7.353
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-06-13 20:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 10,
+            "start": "2021-06-13 05:00"
+        }
+    },
+    "2021-06-23": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 6.176,
+                "sg": 6.176
+            },
+            "cloudCover": {
+                "noaa": 75.019,
+                "sg": 75.019
+            },
+            "currentDirection": {
+                "meto": 155.376,
+                "sg": 155.376
+            },
+            "currentSpeed": {
+                "meto": 0.061,
+                "sg": 0.061
+            },
+            "gust": {
+                "noaa": 7.554,
+                "sg": 7.554
+            },
+            "humidity": {
+                "noaa": 86.164,
+                "sg": 86.164
+            },
+            "precipitation": {
+                "noaa": 0.024,
+                "sg": 0.024
+            },
+            "pressure": {
+                "noaa": 1022.304,
+                "sg": 1022.304
+            },
+            "windDirection": {
+                "icon": 152.012,
+                "noaa": 135.878,
+                "sg": 152.012
+            },
+            "windSpeed": {
+                "icon": 4.207,
+                "noaa": 6.379,
+                "sg": 4.207
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-06-23 20:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 11,
+            "start": "2021-06-23 05:00"
+        }
+    },
+    "2021-07-03": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 7.415,
+                "sg": 7.415
+            },
+            "cloudCover": {
+                "noaa": 5.048,
+                "sg": 5.048
+            },
+            "currentDirection": {
+                "meto": 72.737,
+                "sg": 72.737
+            },
+            "currentSpeed": {
+                "meto": 0.047,
+                "sg": 0.047
+            },
+            "gust": {
+                "noaa": 6.066,
+                "sg": 6.066
+            },
+            "humidity": {
+                "noaa": 83.129,
+                "sg": 83.129
+            },
+            "precipitation": {
+                "noaa": 0.001,
+                "sg": 0.001
+            },
+            "pressure": {
+                "noaa": 1021.899,
+                "sg": 1021.899
+            },
+            "windDirection": {
+                "icon": 259.58,
+                "noaa": 282.991,
+                "sg": 259.58
+            },
+            "windSpeed": {
+                "icon": 3.543,
+                "noaa": 4.796,
+                "sg": 3.543
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-07-03 20:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 12,
+            "start": "2021-07-03 05:00"
+        }
+    },
+    "2021-07-13": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 9.304,
+                "sg": 9.304
+            },
+            "cloudCover": {
+                "noaa": 75.184,
+                "sg": 75.184
+            },
+            "currentDirection": {
+                "meto": 199.172,
+                "sg": 199.172
+            },
+            "currentSpeed": {
+                "meto": 0.067,
+                "sg": 0.067
+            },
+            "gust": {
+                "noaa": 6.217,
+                "sg": 6.217
+            },
+            "humidity": {
+                "noaa": 91.909,
+                "sg": 91.909
+            },
+            "precipitation": {
+                "noaa": 0.006,
+                "sg": 0.006
+            },
+            "pressure": {
+                "noaa": 1015.471,
+                "sg": 1015.471
+            },
+            "windDirection": {
+                "icon": 266.274,
+                "noaa": 241.303,
+                "sg": 266.274
+            },
+            "windSpeed": {
+                "icon": 4.129,
+                "noaa": 4.884,
+                "sg": 4.129
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-07-13 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 13,
+            "start": "2021-07-13 06:00"
+        }
+    },
+    "2021-07-23": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 7.131,
+                "sg": 7.131
+            },
+            "cloudCover": {
+                "noaa": 90.436,
+                "sg": 90.436
+            },
+            "currentDirection": {
+                "meto": 153.311,
+                "sg": 153.311
+            },
+            "currentSpeed": {
+                "meto": 0.084,
+                "sg": 0.084
+            },
+            "gust": {
+                "noaa": 8.311,
+                "sg": 8.311
+            },
+            "humidity": {
+                "noaa": 80.495,
+                "sg": 80.495
+            },
+            "precipitation": {
+                "noaa": 0.196,
+                "sg": 0.196
+            },
+            "pressure": {
+                "noaa": 997.797,
+                "sg": 997.797
+            },
+            "windDirection": {
+                "icon": 303.056,
+                "noaa": 307.448,
+                "sg": 303.056
+            },
+            "windSpeed": {
+                "icon": 7.371,
+                "noaa": 7.526,
+                "sg": 7.371
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-07-23 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 14,
+            "start": "2021-07-23 06:00"
+        }
+    },
+    "2021-08-02": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 9.946,
+                "sg": 9.946
+            },
+            "cloudCover": {
+                "noaa": 24.686,
+                "sg": 24.686
+            },
+            "currentDirection": {
+                "meto": 173.702,
+                "sg": 173.702
+            },
+            "currentSpeed": {
+                "meto": 0.039,
+                "sg": 0.039
+            },
+            "gust": {
+                "noaa": 11.111,
+                "sg": 11.111
+            },
+            "humidity": {
+                "noaa": 91.791,
+                "sg": 91.791
+            },
+            "precipitation": {
+                "noaa": 0.002,
+                "sg": 0.002
+            },
+            "pressure": {
+                "noaa": 1003.479,
+                "sg": 1003.479
+            },
+            "windDirection": {
+                "icon": 136.238,
+                "noaa": 139.199,
+                "sg": 136.238
+            },
+            "windSpeed": {
+                "icon": 6.161,
+                "noaa": 7.284,
+                "sg": 6.161
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-08-02 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 15,
+            "start": "2021-08-02 06:00"
+        }
+    },
+    "2021-08-12": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 12.144,
+                "sg": 12.144
+            },
+            "cloudCover": {
+                "noaa": 30.386,
+                "sg": 30.386
+            },
+            "currentDirection": {
+                "meto": 164.759,
+                "sg": 164.759
+            },
+            "currentSpeed": {
+                "meto": 0.062,
+                "sg": 0.062
+            },
+            "gust": {
+                "noaa": 3.519,
+                "sg": 3.519
+            },
+            "humidity": {
+                "noaa": 88.314,
+                "sg": 88.314
+            },
+            "precipitation": {
+                "noaa": 0.0,
+                "sg": 0.0
+            },
+            "pressure": {
+                "noaa": 1013.164,
+                "sg": 1013.164
+            },
+            "windDirection": {
+                "icon": 161.896,
+                "noaa": 203.774,
+                "sg": 161.896
+            },
+            "windSpeed": {
+                "icon": 1.462,
+                "noaa": 3.506,
+                "sg": 1.462
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-08-12 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 16,
+            "start": "2021-08-12 06:00"
+        }
+    },
+    "2021-08-22": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 8.677,
+                "sg": 8.677
+            },
+            "cloudCover": {
+                "noaa": 99.407,
+                "sg": 99.407
+            },
+            "currentDirection": {
+                "meto": 207.078,
+                "sg": 207.078
+            },
+            "currentSpeed": {
+                "meto": 0.058,
+                "sg": 0.058
+            },
+            "gust": {
+                "noaa": 6.164,
+                "sg": 6.164
+            },
+            "humidity": {
+                "noaa": 78.995,
+                "sg": 78.995
+            },
+            "precipitation": {
+                "noaa": 0.017,
+                "sg": 0.017
+            },
+            "pressure": {
+                "noaa": 1017.309,
+                "sg": 1017.309
+            },
+            "windDirection": {
+                "icon": 26.38,
+                "noaa": 32.011,
+                "sg": 26.38
+            },
+            "windSpeed": {
+                "icon": 6.604,
+                "noaa": 6.043,
+                "sg": 6.604
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-08-22 19:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 17,
+            "start": "2021-08-22 06:00"
+        }
+    },
+    "2021-09-01": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 7.936,
+                "sg": 7.936
+            },
+            "cloudCover": {
+                "noaa": 99.846,
+                "sg": 99.846
+            },
+            "currentDirection": {
+                "meto": 276.798,
+                "sg": 276.798
+            },
+            "currentSpeed": {
+                "meto": 0.105,
+                "sg": 0.105
+            },
+            "gust": {
+                "noaa": 6.982,
+                "sg": 6.982
+            },
+            "humidity": {
+                "noaa": 91.808,
+                "sg": 91.808
+            },
+            "precipitation": {
+                "noaa": 0.028,
+                "sg": 0.028
+            },
+            "pressure": {
+                "noaa": 1000.855,
+                "sg": 1000.855
+            },
+            "windDirection": {
+                "icon": 349.06,
+                "noaa": 314.707,
+                "sg": 349.06
+            },
+            "windSpeed": {
+                "icon": 7.41,
+                "noaa": 6.085,
+                "sg": 7.41
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-09-01 18:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 18,
+            "start": "2021-09-01 06:00"
+        }
+    },
+    "2021-09-11": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 6.006,
+                "sg": 6.006
+            },
+            "cloudCover": {
+                "noaa": 60.492,
+                "sg": 60.492
+            },
+            "currentDirection": {
+                "meto": 228.851,
+                "sg": 228.851
+            },
+            "currentSpeed": {
+                "meto": 0.097,
+                "sg": 0.097
+            },
+            "gust": {
+                "noaa": 9.301,
+                "sg": 9.301
+            },
+            "humidity": {
+                "noaa": 72.508,
+                "sg": 72.508
+            },
+            "precipitation": {
+                "noaa": 0.055,
+                "sg": 0.055
+            },
+            "pressure": {
+                "noaa": 1010.483,
+                "sg": 1010.483
+            },
+            "windDirection": {
+                "icon": 305.621,
+                "noaa": 321.846,
+                "sg": 305.621
+            },
+            "windSpeed": {
+                "icon": 8.695,
+                "noaa": 8.065,
+                "sg": 8.695
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-09-11 18:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 19,
+            "start": "2021-09-11 06:00"
+        }
+    },
+    "2021-09-21": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 6.79,
+                "sg": 6.79
+            },
+            "cloudCover": {
+                "noaa": 29.167,
+                "sg": 29.167
+            },
+            "currentDirection": {
+                "meto": 251.749,
+                "sg": 251.749
+            },
+            "currentSpeed": {
+                "meto": 0.048,
+                "sg": 0.048
+            },
+            "gust": {
+                "noaa": 6.851,
+                "sg": 6.851
+            },
+            "humidity": {
+                "noaa": 77.917,
+                "sg": 77.917
+            },
+            "precipitation": {
+                "noaa": 0.0,
+                "sg": 0.0
+            },
+            "pressure": {
+                "noaa": 1029.247,
+                "sg": 1029.247
+            },
+            "windDirection": {
+                "icon": 136.518,
+                "noaa": 211.28,
+                "sg": 136.518
+            },
+            "windSpeed": {
+                "icon": 2.539,
+                "noaa": 5.688,
+                "sg": 2.539
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-09-21 18:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 20,
+            "start": "2021-09-21 07:00"
+        }
+    },
+    "2021-10-11": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 5.648,
+                "sg": 5.648
+            },
+            "cloudCover": {
+                "noaa": 100.0,
+                "sg": 100.0
+            },
+            "currentDirection": {
+                "meto": 251.502,
+                "sg": 251.502
+            },
+            "currentSpeed": {
+                "meto": 0.11,
+                "sg": 0.11
+            },
+            "gust": {
+                "noaa": 12.311,
+                "sg": 12.311
+            },
+            "humidity": {
+                "noaa": 90.855,
+                "sg": 90.855
+            },
+            "precipitation": {
+                "noaa": 0.711,
+                "sg": 0.711
+            },
+            "pressure": {
+                "noaa": 1005.647,
+                "sg": 1005.647
+            },
+            "windDirection": {
+                "icon": 125.698,
+                "noaa": 124.075,
+                "sg": 125.698
+            },
+            "windSpeed": {
+                "icon": 9.704,
+                "noaa": 10.491,
+                "sg": 9.704
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-10-11 17:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 21,
+            "start": "2021-10-11 07:00"
+        }
+    },
+    "2021-11-05": {
+        "hours": {
+            "airTemperature": {
+                "noaa": 2.682,
+                "sg": 2.682
+            },
+            "cloudCover": {
+                "noaa": 100.0,
+                "sg": 100.0
+            },
+            "currentDirection": {
+                "meto": 294.542,
+                "sg": 294.542
+            },
+            "currentSpeed": {
+                "meto": 0.045,
+                "sg": 0.045
+            },
+            "gust": {
+                "noaa": 7.667,
+                "sg": 7.667
+            },
+            "humidity": {
+                "noaa": 82.064,
+                "sg": 82.064
+            },
+            "precipitation": {
+                "noaa": 0.164,
+                "sg": 0.164
+            },
+            "pressure": {
+                "noaa": 1003.185,
+                "sg": 1003.185
+            },
+            "windDirection": {
+                "icon": 142.81,
+                "noaa": 138.288,
+                "sg": 142.81
+            },
+            "windSpeed": {
+                "icon": 6.964,
+                "noaa": 7.289,
+                "sg": 6.964
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-11-05 17:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 22,
+            "start": "2021-11-05 07:00"
+        }
+    },
+    "2021-11-15": {
+        "hours": {
+            "airTemperature": {
+                "noaa": -0.379,
+                "sg": -0.379
+            },
+            "cloudCover": {
+                "noaa": 100.0,
+                "sg": 100.0
+            },
+            "currentDirection": {
+                "meto": 175.692,
+                "sg": 175.692
+            },
+            "currentSpeed": {
+                "meto": 0.093,
+                "sg": 0.093
+            },
+            "gust": {
+                "noaa": 8.41,
+                "sg": 8.41
+            },
+            "humidity": {
+                "noaa": 77.367,
+                "sg": 77.367
+            },
+            "precipitation": {
+                "noaa": 0.076,
+                "sg": 0.076
+            },
+            "pressure": {
+                "noaa": 1010.894,
+                "sg": 1010.894
+            },
+            "windDirection": {
+                "icon": 261.341,
+                "noaa": 243.389,
+                "sg": 261.341
+            },
+            "windSpeed": {
+                "icon": 9.801,
+                "noaa": 8.35,
+                "sg": 9.801
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-11-15 17:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 23,
+            "start": "2021-11-15 08:00"
+        }
+    },
+    "2021-11-25": {
+        "hours": {
+            "airTemperature": {
+                "noaa": -2.062,
+                "sg": -2.062
+            },
+            "cloudCover": {
+                "noaa": 98.64,
+                "sg": 98.64
+            },
+            "currentDirection": {
+                "meto": 147.194,
+                "sg": 147.194
+            },
+            "currentSpeed": {
+                "meto": 0.059,
+                "sg": 0.059
+            },
+            "gust": {
+                "noaa": 7.805,
+                "sg": 7.805
+            },
+            "humidity": {
+                "noaa": 57.69,
+                "sg": 57.69
+            },
+            "precipitation": {
+                "noaa": 0.112,
+                "sg": 0.112
+            },
+            "pressure": {
+                "noaa": 999.522,
+                "sg": 999.522
+            },
+            "windDirection": {
+                "icon": 99.083,
+                "noaa": 82.279,
+                "sg": 99.083
+            },
+            "windSpeed": {
+                "icon": 5.7,
+                "noaa": 8.417,
+                "sg": 5.7
+            }
+        },
+        "meta": {
+            "cost": 1,
+            "dailyQuota": 50,
+            "end": "2021-11-25 17:00",
+            "lat": 68.9876975,
+            "lng": 40.9483998,
+            "params": [
+                "airTemperature",
+                "cloudCover",
+                "currentDirection",
+                "currentSpeed",
+                "gust",
+                "humidity",
+                "precipitation",
+                "pressure",
+                "windDirection",
+                "windSpeed"
+            ],
+            "requestCount": 24,
+            "start": "2021-11-25 08:00"
+        }
+    }
+}
