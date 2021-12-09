@@ -1,5 +1,0 @@
-airTemperature
-humidity
-precipitation
-windDirection
-windSpeed

@@ -1,6 +1,5 @@
 from arrow import Arrow
 from flask import Blueprint, render_template
-from datetime import timedelta
 import json
 import requests
 
@@ -13,32 +12,12 @@ def index():
     return render_template("index.html")
 
 
-# @views.route("/arrows")
-# def arrows():
-#     with open("data.json", "r", encoding="UTF-8") as file:
-#         data = json.loads(file.read())
-#     # sunset_sunrise_api = data['sunset_sunrise_api'].split("{}")
-#     ipgeolocation_api = data['ipgeolocation_api'].split("{}")
-#     print(ipgeolocation_api)
-#     dates = data['dates']
-#     results = {}
-#     for date in dates:
-#         # url = f"{sunset_sunrise_api[0]}{data['latitude']}{sunset_sunrise_api[1]}{data['longitude']}{sunset_sunrise_api[2]}{date}"
-#         url = f"{ipgeolocation_api[0]}{data['ipgeolocation_api_tokens'][0]}{ipgeolocation_api[1]}{data['latitude']}{ipgeolocation_api[2]}{data['longitude']}{ipgeolocation_api[3]}{date}"
-#         print(url)
-#         result = requests.get(url)
-#         results[date] = result.json()
-#     with open("results.json", "w", encoding="utf-8") as file:
-#         json.dump(results, file, ensure_ascii=False, indent=4)
-#     return results
-
-
 @views.route("/weather", methods=["GET", "POST"])
 def weather():
-    with open("data.json", "r", encoding="UTF-8") as file:
+    with open("database/data.json", "r", encoding="UTF-8") as file:
         data = json.loads(file.read())
     dates = data['dates']
-    with open("key.txt", "r") as file:
+    with open("database/key.txt", "r") as file:
         keys = [key.split("\n")[0] for key in file.readlines()]
     json_data = {}
     token_index = 0
@@ -63,15 +42,38 @@ def weather():
                 'lat': data['latitude'],
                 'lng': data['longitude'],
                 'params': ",".join(keys),
-                'start': start.to('UTC').timestamp(),  # Convert to UTC timestamp
-                'end': end.to('UTC').timestamp()  # Convert to UTC timestamp
+                'start': start.to('UTC').timestamp(),
+                'end': end.to('UTC').timestamp()
             },
             headers={
                 'Authorization': data['stormglass_api_tokens'][token_index]
             }
         )
-        print(response.json())
         json_data[date['date']] = response.json()
-    with open("results.json", "w", encoding="utf-8") as file:
-        json.dump(json_data, file, ensure_ascii=False, indent=4)
-    return json_data
+    results = {}
+    for date in json_data:
+        hours = json_data[date]['hours']
+        if isinstance(hours, list):
+            temp = {}
+            for hour in hours:
+                for param in hour:
+                    if param != 'time':
+                        if param not in temp:
+                            temp[param] = {}
+                        for key in hour[param]:
+                            if key in temp[param]:
+                                temp[param][key] += hour[param][key]
+                            else:
+                                temp[param][key] = hour[param][key]
+            for param in temp:
+                for key in temp[param]:
+                    temp[param][key] = round(temp[param][key] / len(hours), 3)
+            results[date] = {
+                'hours': temp,
+                'meta': json_data[date]['meta']
+            }
+        else:
+            results[date] = json_data[date]
+    with open("database/results.json", "w", encoding="utf-8") as file:
+        json.dump(results, file, ensure_ascii=False, indent=4)
+    return results
